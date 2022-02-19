@@ -1,1 +1,10 @@
-Here is the first file
+Sum of Squares Pseudocode
+
+INPUT NUMBERS t[0 N-1]
+SET sum = 0 i = 0
+WHILE i smaller or equal N-1 
+	Do
+	sum = sum + t[i]*t[i]
+	SET i = i+1
+PRINT sum
+
