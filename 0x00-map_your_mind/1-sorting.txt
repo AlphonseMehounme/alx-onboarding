@@ -1,1 +1,17 @@
-Here is the second file
+Sorting Pseudo Code
+
+INPUT t[0 2]
+
+If (t[0] < t[1] < t[2]) 
+PRINT t[0] t[1]  t[2] 
+else If (t[0] < t[2] < t[1]) 
+PRINT t[0] t[2]  t[1]
+else If (t[1] < t[0] < t[2])
+PRINT t[1] t[0]  t[2] 
+else If (t[1] < t[2] < t[0]) 
+PRINT t[1] t[2]  t[0]  
+else If (t[2] < t[0] < t[1]) 
+PRINT t[2] t[0]  t[1]   
+else If (t[2] < t[1] < t[0]) 
+PRINT t[2] t[1]  t[0]  
+
